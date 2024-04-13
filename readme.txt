@@ -1,2 +1,2 @@
-Git is a ver.
+Git is a distributed ver.
 Git is free software.
